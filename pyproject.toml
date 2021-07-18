@@ -15,6 +15,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.7"
+frozendict = "^2.0.3"
 
 [tool.poetry.dev-dependencies]
 black = "^21.7b0"
