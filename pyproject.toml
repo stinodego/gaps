@@ -6,8 +6,6 @@ authors = ["Stijn de Gooijer <stijn@degooijer.io>"]
 license = "MIT"
 keywords = ["assignment"]
 repository = "https://github.com/stinodego/gaps"
-homepage = "https://github.com/stinodego/gaps"
-documentation = "https://github.com/stinodego/gaps"
 readme = "README.md"
 packages = [
     { include = "gaps", from = "src" }
