@@ -274,8 +274,8 @@ class GeneralizedAssignment:
                 print("Agent: {}\tTasks: {}".format(a, ", ".join(t)))
 
 
-def assign(*args):
-    GeneralizedAssignment(*args)
+def assign(*args, **kwargs):
+    GeneralizedAssignment(*args, **kwargs)
 
 
 ########################################
