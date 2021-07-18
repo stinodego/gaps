@@ -1,0 +1,22 @@
+# Python
+/dist/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.ipynb
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Project
+/data/
+/notebooks/
+.env
