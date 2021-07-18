@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "gaps"
-version = "0.1.0"
+version = "0.1.1"
 description = "Generalized assignment problem solver"
 authors = ["Stijn de Gooijer <stijn@degooijer.io>"]
 license = "MIT"
